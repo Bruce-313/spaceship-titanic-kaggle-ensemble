@@ -1,0 +1,6 @@
+Dataset: Kaggle Spaceship Titanic Competition
+
+Please download train.csv, test.csv, and sample_submission.csv from the Kaggle competition page:
+https://www.kaggle.com/competitions/spaceship-titanic
+
+Place these three files in the same folder as source_notebook.ipynb before running the notebook.
