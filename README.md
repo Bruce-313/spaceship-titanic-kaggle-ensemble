@@ -22,7 +22,7 @@ This repository contains the following files and folders:
 * submissions/
   Generated Kaggle submission files.
 
-* report/final_report.pdf
+* report/Report.pdf  
   Final project report, including data analysis, methodology, experiments, results, and conclusions.
 
 ## 3. Dataset
